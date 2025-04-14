@@ -36,8 +36,3 @@ struct AnswerButton: View {
         
     }
 }
-
-#Preview {
-    AnswerButton(answer: Answer(text: "Random answer text", isCorrect: true, index: 1))
-        .environmentObject(QuizController (name: "data.json"))
-}

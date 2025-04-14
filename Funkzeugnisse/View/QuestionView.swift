@@ -5,10 +5,12 @@
 //  Created by Janin Schroth on 19.12.24.
 //
 
+import SwiftData
 import SwiftUI
 
 struct QuestionView: View {
     @EnvironmentObject var quizController: QuizController
+    @Environment(\.modelContext) private var moc
 
     var body: some View {
         VStack {
@@ -24,7 +26,9 @@ struct QuestionView: View {
                         HStack {
                             Text("# \(quizController.questionnumber)")
                                 .bold()
+                            Text("\(quizController.questionid)")
                             Spacer()
+                            StatusButton()
                         }
                         
                         Text(quizController.question)
@@ -56,9 +60,3 @@ struct QuestionView: View {
         .toolbarRole(.navigationStack)
     }
 }
-
-#Preview {
-    QuestionView()
-        .environmentObject(QuizController(name: "data.json"))
-}
-    

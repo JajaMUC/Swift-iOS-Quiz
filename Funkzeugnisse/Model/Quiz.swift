@@ -15,9 +15,10 @@ struct Quiz: Decodable {
         var id: UUID {
             UUID()
         }
-        var questionnumber: Int16
+        var questionid: Int
+        var questionnumber: Int
         var certificate: String
-        var categoryid: Int16
+        var categoryid: Int
         var categorytitle: String
         
         var question: String
@@ -29,9 +30,9 @@ struct Quiz: Decodable {
         var questionnaireall: [Int]
         var questionnairesrc: [Int]
         
-        var status: Int16
-        var questionanswered: Int16
-        var questioncorrect: Int16
+        var status: Int
+        var questionanswered: Int
+        var questioncorrect: Int
         
         
         var answers: [Answer] {

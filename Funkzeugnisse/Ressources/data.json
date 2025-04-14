@@ -1,6 +1,7 @@
 {
     "results":[
      {
+     "questionid": 1,
       "questionnumber": 1,
       "certificate": "UBI",
       "categoryid": 1,
@@ -17,6 +18,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 2,
       "questionnumber": 2,
       "certificate": "UBI",
       "categoryid": 1,
@@ -33,6 +35,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 3,
       "questionnumber": 3,
       "certificate": "UBI",
       "categoryid": 1,
@@ -49,6 +52,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 4,
       "questionnumber": 4,
       "certificate": "UBI",
       "categoryid": 1,
@@ -65,6 +69,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 5,
       "questionnumber": 5,
       "certificate": "UBI",
       "categoryid": 1,
@@ -81,6 +86,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 6,
       "questionnumber": 6,
       "certificate": "UBI",
       "categoryid": 1,
@@ -97,6 +103,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 7,
       "questionnumber": 7,
       "certificate": "UBI",
       "categoryid": 1,
@@ -113,6 +120,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 8,
       "questionnumber": 8,
       "certificate": "UBI",
       "categoryid": 1,
@@ -129,6 +137,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 9,
       "questionnumber": 9,
       "certificate": "UBI",
       "categoryid": 1,
@@ -145,6 +154,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 10,
       "questionnumber": 10,
       "certificate": "UBI",
       "categoryid": 1,
@@ -161,6 +171,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 11,
       "questionnumber": 11,
       "certificate": "UBI",
       "categoryid": 1,
@@ -177,6 +188,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 12,
       "questionnumber": 12,
       "certificate": "UBI",
       "categoryid": 1,
@@ -193,6 +205,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 13,
       "questionnumber": 13,
       "certificate": "UBI",
       "categoryid": 1,
@@ -209,6 +222,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 14,
       "questionnumber": 14,
       "certificate": "UBI",
       "categoryid": 1,
@@ -225,6 +239,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 15,
       "questionnumber": 15,
       "certificate": "UBI",
       "categoryid": 1,
@@ -241,6 +256,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 16,
       "questionnumber": 16,
       "certificate": "UBI",
       "categoryid": 1,
@@ -257,6 +273,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 17,
       "questionnumber": 17,
       "certificate": "UBI",
       "categoryid": 1,
@@ -273,6 +290,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 18,
       "questionnumber": 18,
       "certificate": "UBI",
       "categoryid": 1,
@@ -289,6 +307,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 19,
       "questionnumber": 19,
       "certificate": "UBI",
       "categoryid": 1,
@@ -305,6 +324,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 20,
       "questionnumber": 20,
       "certificate": "UBI",
       "categoryid": 1,
@@ -321,6 +341,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 21,
       "questionnumber": 21,
       "certificate": "UBI",
       "categoryid": 1,
@@ -337,6 +358,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 22,
       "questionnumber": 22,
       "certificate": "UBI",
       "categoryid": 1,
@@ -353,6 +375,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 23,
       "questionnumber": 23,
       "certificate": "UBI",
       "categoryid": 1,
@@ -369,6 +392,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 24,
       "questionnumber": 24,
       "certificate": "UBI",
       "categoryid": 1,
@@ -385,6 +409,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 25,
       "questionnumber": 25,
       "certificate": "UBI",
       "categoryid": 2,
@@ -401,6 +426,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 26,
       "questionnumber": 26,
       "certificate": "UBI",
       "categoryid": 2,
@@ -417,6 +443,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 27,
       "questionnumber": 27,
       "certificate": "UBI",
       "categoryid": 2,
@@ -433,6 +460,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 28,
       "questionnumber": 28,
       "certificate": "UBI",
       "categoryid": 2,
@@ -449,6 +477,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 29,
       "questionnumber": 29,
       "certificate": "UBI",
       "categoryid": 2,
@@ -465,6 +494,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 30,
       "questionnumber": 30,
       "certificate": "UBI",
       "categoryid": 2,
@@ -481,6 +511,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 31,
       "questionnumber": 31,
       "certificate": "UBI",
       "categoryid": 2,
@@ -497,6 +528,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 32,
       "questionnumber": 32,
       "certificate": "UBI",
       "categoryid": 2,
@@ -513,6 +545,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 33,
       "questionnumber": 33,
       "certificate": "UBI",
       "categoryid": 2,
@@ -529,6 +562,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 34,
       "questionnumber": 34,
       "certificate": "UBI",
       "categoryid": 2,
@@ -545,6 +579,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 35,
       "questionnumber": 35,
       "certificate": "UBI",
       "categoryid": 2,
@@ -561,6 +596,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 36,
       "questionnumber": 36,
       "certificate": "UBI",
       "categoryid": 2,
@@ -577,6 +613,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 37,
       "questionnumber": 37,
       "certificate": "UBI",
       "categoryid": 2,
@@ -593,6 +630,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 38,
       "questionnumber": 38,
       "certificate": "UBI",
       "categoryid": 2,
@@ -609,6 +647,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 39,
       "questionnumber": 39,
       "certificate": "UBI",
       "categoryid": 2,
@@ -625,6 +664,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 40,
       "questionnumber": 40,
       "certificate": "UBI",
       "categoryid": 2,
@@ -641,6 +681,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 41,
       "questionnumber": 41,
       "certificate": "UBI",
       "categoryid": 2,
@@ -657,6 +698,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 42,
       "questionnumber": 42,
       "certificate": "UBI",
       "categoryid": 2,
@@ -673,6 +715,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 43,
       "questionnumber": 43,
       "certificate": "UBI",
       "categoryid": 2,
@@ -689,6 +732,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 44,
       "questionnumber": 44,
       "certificate": "UBI",
       "categoryid": 2,
@@ -705,6 +749,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 45,
       "questionnumber": 45,
       "certificate": "UBI",
       "categoryid": 2,
@@ -721,6 +766,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 46,
       "questionnumber": 46,
       "certificate": "UBI",
       "categoryid": 2,
@@ -737,6 +783,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 47,
       "questionnumber": 47,
       "certificate": "UBI",
       "categoryid": 2,
@@ -753,6 +800,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 48,
       "questionnumber": 48,
       "certificate": "UBI",
       "categoryid": 2,
@@ -769,6 +817,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 49,
       "questionnumber": 49,
       "certificate": "UBI",
       "categoryid": 2,
@@ -785,6 +834,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 50,
       "questionnumber": 50,
       "certificate": "UBI",
       "categoryid": 2,
@@ -801,6 +851,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 51,
       "questionnumber": 51,
       "certificate": "UBI",
       "categoryid": 2,
@@ -817,6 +868,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 52,
       "questionnumber": 52,
       "certificate": "UBI",
       "categoryid": 2,
@@ -833,6 +885,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 53,
       "questionnumber": 53,
       "certificate": "UBI",
       "categoryid": 2,
@@ -849,6 +902,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 54,
       "questionnumber": 54,
       "certificate": "UBI",
       "categoryid": 2,
@@ -865,6 +919,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 55,
       "questionnumber": 55,
       "certificate": "UBI",
       "categoryid": 3,
@@ -881,6 +936,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 56,
       "questionnumber": 56,
       "certificate": "UBI",
       "categoryid": 3,
@@ -897,6 +953,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 57,
       "questionnumber": 57,
       "certificate": "UBI",
       "categoryid": 3,
@@ -913,6 +970,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 58,
       "questionnumber": 58,
       "certificate": "UBI",
       "categoryid": 3,
@@ -929,6 +987,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 59,
       "questionnumber": 59,
       "certificate": "UBI",
       "categoryid": 3,
@@ -945,6 +1004,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 60,
       "questionnumber": 60,
       "certificate": "UBI",
       "categoryid": 3,
@@ -961,6 +1021,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 61,
       "questionnumber": 61,
       "certificate": "UBI",
       "categoryid": 3,
@@ -977,6 +1038,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 62,
       "questionnumber": 62,
       "certificate": "UBI",
       "categoryid": 3,
@@ -993,6 +1055,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 63,
       "questionnumber": 63,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1009,6 +1072,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 64,
       "questionnumber": 64,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1025,6 +1089,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 65,
       "questionnumber": 65,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1041,6 +1106,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 66,
       "questionnumber": 66,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1057,6 +1123,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 67,
       "questionnumber": 67,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1073,6 +1140,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 68,
       "questionnumber": 68,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1089,6 +1157,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 69,
       "questionnumber": 69,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1105,6 +1174,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 70,
       "questionnumber": 70,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1121,6 +1191,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 71,
       "questionnumber": 71,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1137,6 +1208,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 72,
       "questionnumber": 72,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1153,6 +1225,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 73,
       "questionnumber": 73,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1169,6 +1242,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 74,
       "questionnumber": 74,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1185,6 +1259,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 75,
       "questionnumber": 75,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1201,6 +1276,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 76,
       "questionnumber": 76,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1217,6 +1293,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 77,
       "questionnumber": 77,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1233,6 +1310,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 78,
       "questionnumber": 78,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1249,6 +1327,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 79,
       "questionnumber": 79,
       "certificate": "UBI",
       "categoryid": 3,
@@ -1265,10 +1344,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 80,
       "questionnumber": 80,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Wo findet man Regelungen über die Abwicklung des Binnenschifffahrtsfunks?",
       "correctanswer": "Allgemeiner Teil des Handbuchs Binnenschifffahrtsfunk",
       "incorrectanswer1": "Regionaler Teil Deutschland des Handbuchs Binnenschifffahrtsfunk",
@@ -1281,10 +1361,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 81,
       "questionnumber": 81,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Wo findet man die empfohlenen fremdsprachlichen Redewendungen für die Abwicklung des Binnenschifffahrtsfunks?",
       "correctanswer": "Regionale Teile des Handbuchs Binnenschifffahrtsfunk",
       "incorrectanswer1": "Allgemeiner Teil des Handbuchs Binnenschifffahrtsfunk",
@@ -1297,10 +1378,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 82,
       "questionnumber": 82,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Wozu dient die Internationale Buchstabiertafel im Binnenschifffahrtsfunk?",
       "correctanswer": "Zum Buchstabieren schwieriger Wörter, Namen und Bezeichnungen innerhalb von Meldungen, um Übermittlungsfehler zu vermeiden",
       "incorrectanswer1": "Zum Buchstabieren schwieriger Wörter, Namen und Bezeichnungen, um die Vorschriften der Binnenschifffahrt-Sprechfunkverordnung zu erfüllen",
@@ -1313,10 +1395,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 83,
       "questionnumber": 83,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Wo findet man Angaben über die UKW-Kanäle, die im Binnenschifffahrtsfunk in bestimmten Regionen benutzt werden sollen?",
       "correctanswer": "Regionale Teile des Handbuchs Binnenschifffahrtsfunk",
       "incorrectanswer1": "Schifffahrtspolizeiverordnungen, z.B. Rheinschifffahrtspolizeiverordnung",
@@ -1329,10 +1412,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 84,
       "questionnumber": 84,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Was bedeutet die Betriebsart „Simplex”?",
       "correctanswer": "Wechselsprechen",
       "incorrectanswer1": "Gegensprechen",
@@ -1345,10 +1429,11 @@
       "questioncorrect": 0
      },
      {
+    "questionid": 85,
       "questionnumber": 85,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Wie erfolgt die Verkehrsabwicklung in der Betriebsart „Simplex”?",
       "correctanswer": "Jeder Gesprächspartner kann entweder senden oder empfangen",
       "incorrectanswer1": "Beide Gesprächspartner können gleichzeitig senden und empfangen",
@@ -1361,10 +1446,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 86,
       "questionnumber": 86,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Was bedeutet die Betriebsart „Duplex”?",
       "correctanswer": "Gegensprechen",
       "incorrectanswer1": "Wechselsprechen",
@@ -1377,10 +1463,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 87,
       "questionnumber": 87,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Was bedeutet Semi-Duplex?",
       "correctanswer": "Wechselsprechen auf einem Duplex-Kanal",
       "incorrectanswer1": "Wechselsprechen auf einem Simplex-Kanal",
@@ -1393,10 +1480,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 88,
       "questionnumber": 88,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Warum kann die Hörbereitschaft auf zwei Kanälen im Binnenschifffahrtsfunk nicht durch die Zweikanalüberwachung (Dual Watch) wahrgenommen werden?",
       "correctanswer": "Die Zweikanalüberwachung ermöglicht nicht den gleichzeitigen Empfang auf zwei Funkkanälen",
       "incorrectanswer1": "Die Zweikanalüberwachung vermindert die Empfangsreichweite der Funkanlage",
@@ -1409,10 +1497,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 89,
       "questionnumber": 89,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Wie erfolgt die Leistungsreduzierung beim Sendebetrieb einer Schiffsfunkstelle auf dem UKW-Kanal 10?",
       "correctanswer": "Automatisch",
       "incorrectanswer1": "Manuell",
@@ -1425,10 +1514,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 90,
       "questionnumber": 90,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Mit welcher Leistung sendet eine Schiffsfunkstelle auf UKW-Kanal 10?",
       "correctanswer": "0,5 bis 1 Watt",
       "incorrectanswer1": "2 bis 5 Watt",
@@ -1441,10 +1531,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 91,
       "questionnumber": 91,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Auf welchem UKW-Kanal müssen Schiffsfunkstellen – unabhängig von dem befahrenen Streckenabschnitt – während der Fahrt ständig empfangsbereit sein?",
       "correctanswer": "10",
       "incorrectanswer1": "72",
@@ -1457,10 +1548,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 92,
       "questionnumber": 92,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Welcher UKW-Kanal darf im Binnenschifffahrtsfunk auf den Bundeswasserstraßen der Zonen 3 und 4 nicht benutzt werden?",
       "correctanswer": "16",
       "incorrectanswer1": "72",
@@ -1473,10 +1565,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 93,
       "questionnumber": 93,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Wozu dienen im Binnenschifffahrtsfunk die UKW-Kanäle 72 und 77?",
       "correctanswer": "Funkverkehr sozialer Art",
       "incorrectanswer1": "Nautische Absprachen",
@@ -1489,10 +1582,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 94,
       "questionnumber": 94,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Welche UKW-Kanäle dürfen für „Nachrichten sozialer Art” benutzt werden?",
       "correctanswer": "72 und 77",
       "incorrectanswer1": "15 und 17",
@@ -1505,10 +1599,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 95,
       "questionnumber": 95,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Welche Fahrzeuge unterliegen auf bestimmten Wasserstraßen und an bestimmten Stellen einer Meldepflicht?",
       "correctanswer": "Gefahrgutschiffe und Sondertransporte",
       "incorrectanswer1": "Motorfahrzeuge mit einer Gesamtlänge von mehr als 20 Metern",
@@ -1521,10 +1616,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 96,
       "questionnumber": 96,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Vor jeder Aussendung ist durch kurzzeitiges Öffnen der Rauschsperre sicherzustellen, dass…",
       "correctanswer": "kein anderer Funkverkehr gestört wird",
       "incorrectanswer1": "die Sendeleistung auf 25 Watt eingestellt ist",
@@ -1537,10 +1633,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 97,
       "questionnumber": 97,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Die längere Aussendung einer anderen Schiffsfunkstelle auf Kanal 10 kann…",
       "correctanswer": "nicht unterbrochen werden ",
       "incorrectanswer1": "jederzeit unterbrochen werden",
@@ -1553,8 +1650,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 98,
       "questionnumber": 98,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
      "categorytitle": "Sprechfunk",
       "question": "Längere Aussendungen auf Kanal 10 sollen vermieden werden, weil sie…",
@@ -1569,10 +1667,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 99,
       "questionnumber": 99,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Was hat eine Schiffsfunkstelle im Verkehr mit einer Funkstelle des Verkehrskreises Nautische Information zu beachten?",
       "correctanswer": "Anweisungen der Funkstelle des Verkehrskreises Nautische Information sind zu befolgen",
       "incorrectanswer1": "Nachrichten mit der Funkstelle des Verkehrskreises Nautische Information sind auf Kanal 16 auszutauschen",
@@ -1585,6 +1684,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 100,
       "questionnumber": 100,
            "certificate": "UBI",
       "categoryid": 4,
@@ -1601,10 +1701,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 101,
       "questionnumber": 101,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Warum dürfen Seefunkstellen mit ihrer Seefunkanlage nicht am Binnenschifffahrtsfunk teilnehmen?",
       "correctanswer": "Seefunkanlagen verfügen weder über eine automatische Sendeleistungsreduzierung auf bestimmten UKW-Kanälen noch können sie einen ATIS-Code aussenden",
       "incorrectanswer1": "Seefunkanlagen nutzen ein anderes Frequenzband als Binnenschifffahrtsfunkanlagen",
@@ -1617,10 +1718,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 102,
       "questionnumber": 102,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Die Verwendung des Digitalen Selektivrufs (DSC) ist …",
       "correctanswer": "im Binnenschifffahrtsfunk nicht zulässig",
       "incorrectanswer1": "eingeführt zur Verbindungsaufnahme mit anderen Schiffsfunkstellen",
@@ -1633,10 +1735,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 103,
       "questionnumber": 103,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Welche Sprache muss bei Verbindungen zwischen deutschen Schiffsfunkstellen und ausländischen Landfunkstellen benutzt werden?",
       "correctanswer": "Sprache des Landes, in dem sich die Landfunkstelle befindet",
       "incorrectanswer1": "Heimatsprache des Funkers",
@@ -1649,10 +1752,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 104,
       "questionnumber": 104,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Was ist bei Testsendungen im Binnenschifffahrtsfunk zu beachten?",
       "correctanswer": "Die Aussendungen dürfen 10 Sekunden nicht überschreiten; sie müssen den Rufnamen der aussendenden Funkstelle enthalten, gefolgt von dem Wort „Test“",
       "incorrectanswer1": "Die Aussendungen dürfen 20 Sekunden nicht überschreiten und müssen mit einer Kennung des Schiffes ausgestrahlt werden",
@@ -1665,10 +1769,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 105,
       "questionnumber": 105,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Wann müssen Meldungen grundsätzlich bestätigt werden?",
       "correctanswer": "Auf Verlangen",
       "incorrectanswer1": "Immer",
@@ -1681,10 +1786,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 106,
       "questionnumber": 106,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Woran erkennt man beim Befahren von Binnenwasserstraßen, welcher UKW-Kanal im Schleusenbereich zu benutzen ist?",
       "correctanswer": "Tafelzeichen",
       "incorrectanswer1": "Schwimmende Schifffahrtszeichen",
@@ -1697,10 +1803,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 107,
       "questionnumber": 107,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Welche Bedeutung hat ein weißes Tafelzeichen mit rotem Rand und der schwarzen Aufschrift „UKW 20“ oder „VHF 20“?",
       "correctanswer": "Gebot, UKW-Kanal 20 zu benutzen",
       "incorrectanswer1": "Gebot, eine Sendeleistung von 20 Watt zu gewährleisten",
@@ -1713,10 +1820,11 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 108,
       "questionnumber": 108,
-           "certificate": "UBI",
+      "certificate": "UBI",
       "categoryid": 4,
-     "categorytitle": "Sprechfunk",
+      "categorytitle": "Sprechfunk",
       "question": "Welche Bedeutung hat ein blaues Tafelzeichen mit der weißen Aufschrift „UKW 18“ oder „VHF 18“?",
       "correctanswer": "Hinweis auf den Nautischen Informationsfunk (NIF) auf UKW-Kanal 18",
       "incorrectanswer1": "Gebot, UKW-Kanal 18 statt 10 für die Verkehrsabwicklung zu benutzen",
@@ -1729,6 +1837,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 109,
       "questionnumber": 109,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1745,6 +1854,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 110,
       "questionnumber": 110,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1761,6 +1871,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 111,
       "questionnumber": 111,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1777,6 +1888,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 112,
       "questionnumber": 112,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1793,6 +1905,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 113,
       "questionnumber": 113,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1809,6 +1922,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 114,
       "questionnumber": 114,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1825,6 +1939,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 115,
       "questionnumber": 115,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1841,6 +1956,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 116,
       "questionnumber": 116,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1857,6 +1973,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 117,
       "questionnumber": 117,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1873,6 +1990,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 118,
       "questionnumber": 118,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1889,70 +2007,75 @@
       "questioncorrect": 0
      },
      {
-      "questionnumber": 119,
-      "certificate": "UBI",
-      "categoryid": 5,
-      "categorytitle": "Betriebsverfahren und Rangfolgen",
-      "question": "Was bedeuten die Worte SILENCE FINI?",
-      "correctanswer": "Der Notverkehr ist beendet",
-      "incorrectanswer1": "Einer Funkstelle, die den Notverkehr stört, wird Funkstille geboten",
-      "incorrectanswer2": "Dringlichkeits- und Sicherheitsverkehr darf wieder aufgenommen werden",
-      "incorrectanswer3": "Alle Funkstellen müssen Funkstille einhalten",
-      "questionnaireall": [4, 10],
-      "questionnairesrc": [10],
-      "status": 0,
-      "questionanswered": 0,
-      "questioncorrect": 0
+        "questionid": 119,
+        "questionnumber": 119,
+        "certificate": "UBI",
+        "categoryid": 5,
+        "categorytitle": "Betriebsverfahren und Rangfolgen",
+        "question": "Was bedeuten die Worte SILENCE FINI?",
+        "correctanswer": "Der Notverkehr ist beendet",
+        "incorrectanswer1": "Einer Funkstelle, die den Notverkehr stört, wird Funkstille geboten",
+        "incorrectanswer2": "Dringlichkeits- und Sicherheitsverkehr darf wieder aufgenommen werden",
+        "incorrectanswer3": "Alle Funkstellen müssen Funkstille einhalten",
+        "questionnaireall": [4, 10],
+        "questionnairesrc": [10],
+        "status": 0,
+        "questionanswered": 0,
+        "questioncorrect": 0
      },
      {
-      "questionnumber": 120,
-      "certificate": "UBI",
-      "categoryid": 5,
-      "categorytitle": "Betriebsverfahren und Rangfolgen",
-      "question": "Was bedeuten die Worte SILENCE MAYDAY?",
-      "correctanswer": "Die Funkstelle in Not gebietet den nicht am Notverkehr beteiligten Funkstellen Funkstille",
-      "incorrectanswer1": "Der Notverkehr ist beendet",
-      "incorrectanswer2": "Die am Notverkehr beteiligten Funkstellen genießen Vorrang",
-      "incorrectanswer3": "Eine Notmeldung folgt",
-      "questionnaireall": [8],
-      "questionnairesrc": [8],
-      "status": 0,
-      "questionanswered": 0,
-      "questioncorrect": 0
+        "questionid": 120,
+        "questionnumber": 120,
+        "certificate": "UBI",
+        "categoryid": 5,
+        "categorytitle": "Betriebsverfahren und Rangfolgen",
+        "question": "Was bedeuten die Worte SILENCE MAYDAY?",
+        "correctanswer": "Die Funkstelle in Not gebietet den nicht am Notverkehr beteiligten Funkstellen Funkstille",
+        "incorrectanswer1": "Der Notverkehr ist beendet",
+        "incorrectanswer2": "Die am Notverkehr beteiligten Funkstellen genießen Vorrang",
+        "incorrectanswer3": "Eine Notmeldung folgt",
+        "questionnaireall": [8],
+        "questionnairesrc": [8],
+        "status": 0,
+        "questionanswered": 0,
+        "questioncorrect": 0
      },
      {
-      "questionnumber": 121,
-      "certificate": "UBI",
-      "categoryid": 5,
-      "categorytitle": "Betriebsverfahren und Rangfolgen",
-      "question": "Woraus besteht das Dringlichkeitszeichen im Sprechfunk?",
-      "correctanswer": "PAN PAN",
-      "incorrectanswer1": "MAYDAY",
-      "incorrectanswer2": "SECURITE",
-      "incorrectanswer3": "URGENT",
-      "questionnaireall": [3, 9],
-      "questionnairesrc": [0],
-      "status": 0,
-      "questionanswered": 0,
-      "questioncorrect": 0
+        "questionid": 121,
+        "questionnumber": 121,
+        "certificate": "UBI",
+        "categoryid": 5,
+        "categorytitle": "Betriebsverfahren und Rangfolgen",
+        "question": "Woraus besteht das Dringlichkeitszeichen im Sprechfunk?",
+        "correctanswer": "PAN PAN",
+        "incorrectanswer1": "MAYDAY",
+        "incorrectanswer2": "SECURITE",
+        "incorrectanswer3": "URGENT",
+        "questionnaireall": [3, 9],
+        "questionnairesrc": [0],
+        "status": 0,
+        "questionanswered": 0,
+        "questioncorrect": 0
      },
      {
-      "questionnumber": 122,
-      "certificate": "UBI",
-      "categoryid": 5,
-      "categorytitle": "Betriebsverfahren und Rangfolgen",
-      "question": "Wann liegt ein Dringlichkeitsfall vor?",
-      "correctanswer": "Wenn dringende Nachrichten übermittelt werden sollen, welche die Besatzung und\/oder das Schiff betreffen, ohne dass eine unmittelbare Gefährdung gegeben ist",
-      "incorrectanswer1": "Wenn eine unmittelbare Gefährdung von Mensch oder Schiff gegeben ist oder eine Gefahrenabwehr an Land notwendig ist",
-      "incorrectanswer2": "Wenn dringende Nachrichten übermittelt werden sollen, welche den Empfang eines Notzeichens betreffen",
-      "incorrectanswer3": "Wenn dringende Nachrichten übermittelt werden sollen, welche die Unterstützung durch die Wasserschutzpolizei betreffen",
-      "questionnaireall": [4, 7],
-      "questionnairesrc": [4, 7],
-      "status": 0,
-      "questionanswered": 0,
-      "questioncorrect": 0
+        "questionid": 122,
+        "questionnumber": 122,
+        "certificate": "UBI",
+        "categoryid": 5,
+        "categorytitle": "Betriebsverfahren und Rangfolgen",
+        "question": "Wann liegt ein Dringlichkeitsfall vor?",
+        "correctanswer": "Wenn dringende Nachrichten übermittelt werden sollen, welche die Besatzung und\/oder das Schiff betreffen, ohne dass eine unmittelbare Gefährdung gegeben ist",
+        "incorrectanswer1": "Wenn eine unmittelbare Gefährdung von Mensch oder Schiff gegeben ist oder eine Gefahrenabwehr an Land notwendig ist",
+        "incorrectanswer2": "Wenn dringende Nachrichten übermittelt werden sollen, welche den Empfang eines Notzeichens betreffen",
+        "incorrectanswer3": "Wenn dringende Nachrichten übermittelt werden sollen, welche die Unterstützung durch die Wasserschutzpolizei betreffen",
+        "questionnaireall": [4, 7],
+        "questionnairesrc": [4, 7],
+        "status": 0,
+        "questionanswered": 0,
+        "questioncorrect": 0
      },
      {
+     "questionid": 123,
       "questionnumber": 123,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1969,6 +2092,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 124,
       "questionnumber": 124,
       "certificate": "UBI",
       "categoryid": 5,
@@ -1985,6 +2109,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 125,
       "questionnumber": 125,
       "certificate": "UBI",
       "categoryid": 5,
@@ -2001,6 +2126,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 126,
       "questionnumber": 126,
       "certificate": "UBI",
       "categoryid": 5,
@@ -2017,6 +2143,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 127,
       "questionnumber": 127,
       "certificate": "UBI",
       "categoryid": 5,
@@ -2033,6 +2160,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 128,
       "questionnumber": 128,
       "certificate": "UBI",
       "categoryid": 5,
@@ -2049,6 +2177,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 129,
       "questionnumber": 129,
       "certificate": "UBI",
       "categoryid": 5,
@@ -2065,6 +2194,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 130,
       "questionnumber": 130,
       "certificate": "UBI",
       "categoryid": 5,
@@ -2081,6 +2211,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 131,
       "questionnumber": 1,
       "certificate": "SRC",
       "categoryid": 1,
@@ -2097,6 +2228,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 132,
       "questionnumber": 2,
       "certificate": "SRC",
       "categoryid": 1,
@@ -2113,6 +2245,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 133,
       "questionnumber": 3,
       "certificate": "SRC",
       "categoryid": 1,
@@ -2129,6 +2262,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 134,
       "questionnumber": 4,
       "certificate": "SRC",
       "categoryid": 1,
@@ -2145,6 +2279,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 135,
       "questionnumber": 5,
       "certificate": "SRC",
       "categoryid": 1,
@@ -2161,8 +2296,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 136,
       "questionnumber": 6,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Welche Publikationen des Bundesamtes für Seeschifffahrt und Hydrographie (BSH) enthalten speziell für die Sportschifffahrt Informationen zum Seefunk?",
@@ -2177,8 +2313,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 137,
       "questionnumber": 7,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Was ist eine „Küstenfunkstelle“?",
@@ -2193,8 +2330,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 138,
       "questionnumber": 8,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Was bedeutet „öffentlicher Funkverkehr“? ",
@@ -2209,8 +2347,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 139,
       "questionnumber": 9,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Für die Teilnahme am öffentlichen Funkverkehr ist – im Gegensatz zur Teilnahme am Nicht-öffentlichen Funkverkehr – zusätzlich erforderlich … ",
@@ -2225,8 +2364,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 140,
       "questionnumber": 10,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Wodurch erfährt eine Seefunkstelle von einer Küstenfunkstelle, dass dort Nachrichten für sie vorliegen?",
@@ -2241,8 +2381,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 141,
       "questionnumber": 11,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Was sind die Abrechnungsgrundlagen für ein Seefunkgespräch über eine deutsche Küstenfunkstelle?",
@@ -2257,8 +2398,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 142,
       "questionnumber": 12,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Was ist eine „Sea-Area“ im GMDSS? ",
@@ -2273,8 +2415,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 143,
       "questionnumber": 13,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Welche Bezeichnungen tragen die Seegebiete, in denen für Schiffe eine bestimmte Funkausrüstung international vorgeschrieben ist?",
@@ -2289,8 +2432,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 144,
       "questionnumber": 14,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Eine Yacht befindet sich in einem Seegebiet, das von der Sprechfunkreichweite einer UKW-Küstenfunkstelle abgedeckt wird, die ununterbrochen für DSC-Alarmierungen zur Verfügung steht. In welchem Seegebiet befindet sich das Fahrzeug?",
@@ -2305,8 +2449,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 145,
       "questionnumber": 15,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Welches sind die satellitengestützten Alarmierungssysteme im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS)?",
@@ -2321,6 +2466,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 146,
       "questionnumber": 16,
        "certificate": "SRC",
       "categoryid": 1,
@@ -2337,8 +2483,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 147,
       "questionnumber": 17,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Welche Aussendung wird als „WX\" bezeichnet?",
@@ -2353,8 +2500,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 148,
       "questionnumber": 18,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Welche Aussendung wird als „NX\" bezeichnet?",
@@ -2369,8 +2517,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 149,
       "questionnumber": 19,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Was versteht man unter „AIS“?",
@@ -2385,8 +2534,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 150,
       "questionnumber": 20,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Was bedeutet „ETA“?",
@@ -2401,8 +2551,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 151,
       "questionnumber": 21,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Wonach richten sich die Zeitangaben im Seefunkdienst?",
@@ -2417,8 +2568,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 152,
       "questionnumber": 22,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Welche Bedeutung hat die Zeitangabe „LT“ (Local Time)?",
@@ -2433,8 +2585,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 153,
       "questionnumber": 23,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 1,
       "categorytitle": "Mobiler Seefunkdienst und weltweites Seenot- und Sicherheitsfunksystem (GMDSS)",
       "question": "Wie bezeichnet man ein funkärztliches Beratungsgespräch?",
@@ -2449,8 +2602,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 154,
       "questionnumber": 24,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Was ist eine „Seefunkstelle“?",
@@ -2465,8 +2619,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 155,
       "questionnumber": 25,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welches Funkzeugnis ist auf einem mit einer Seefunkanlage ausgerüsteten Sportfahrzeug unter deutscher Flagge für den Schiffsführer vorgeschrieben?",
@@ -2481,8 +2636,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 156,
       "questionnumber": 26,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Funkanlagen darf der Inhaber eines Beschränkt Gültigen Funkbetriebszeugnisses (Short Range Certificate [SRC]) bedienen?",
@@ -2497,8 +2653,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 157,
       "questionnumber": 27,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Sportboote müssen mit einer UKW-Seefunkanlage ausgerüstet sein?",
@@ -2513,8 +2670,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 158,
       "questionnumber": 28,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche rechtlichen Voraussetzungen sind für den Betrieb einer Seefunkstelle auf einem Sportfahrzeug und einem Traditionsschiff zu erfüllen?",
@@ -2529,8 +2687,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 159,
       "questionnumber": 29,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Urkunde und welcher Befähigungsnachweis müssen bei der Überprüfung einer Seefunkstelle auf einem Sportfahrzeug dem Prüfbeamten auf Verlangen vorgelegt werden?",
@@ -2545,8 +2704,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 160,
       "questionnumber": 30,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Die Urkunde über die Zuteilung (Ship Station Licence) zum Betreiben einer Seefunkstelle wird in Deutschland ausgestellt durch …",
@@ -2561,8 +2721,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 161,
       "questionnumber": 31,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Urkunde für die Seefunkstelle muss auf einem Sportfahrzeug mitgeführt werden?",
@@ -2577,8 +2738,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 162,
       "questionnumber": 32,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Was und zu welchem Zweck muss ein Schiffseigner bei Änderung des Schiffsnamens in Bezug auf seine Seefunkstelle veranlassen?",
@@ -2593,8 +2755,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 163,
       "questionnumber": 33,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Was muss ein Schiffseigner beim Austausch der UKW-Sprechfunkanlage gegen eine UKW-GMDSS-Funkanlage veranlassen?",
@@ -2609,8 +2772,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 164,
       "questionnumber": 34,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Was ist beim Kauf eines UKW-Sprechfunkgeräts für den Seefunkdienst oder eines UKW-GMDSS-Funkgeräts zu beachten?",
@@ -2625,8 +2789,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 165,
       "questionnumber": 35,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Wer stellt in Deutschland Funksicherheitszeugnisse für Sportboote aus, die gewerbsmäßig genutzt werden?",
@@ -2641,8 +2806,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 166,
       "questionnumber": 36,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Ein Sportboot von 12 Meter Länge und mehr benötigt ein Funksicherheitszeugnis…",
@@ -2657,8 +2823,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 167,
       "questionnumber": 37,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Sendeleistungen lassen sich bei einer fest installierten UKW-Seefunkanlage schalten?",
@@ -2673,8 +2840,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 168,
       "questionnumber": 38,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Behörde erteilt in Deutschland sechsstellige Rufzeichen für Seefunkstellen?",
@@ -2689,8 +2857,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 169,
       "questionnumber": 39,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Behörden in Deutschland sind berechtigt, die Funktionsfähigkeit von Seefunkstellen zu überprüfen?",
@@ -2705,8 +2874,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 170,
       "questionnumber": 40,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Behörde teilt einer in das Seeschiffsregister eingetragenen Yacht das mindestens vierstellige Unterscheidungssignal zu?",
@@ -2721,8 +2891,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 171,
       "questionnumber": 41,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Art von Funkstelle hat z. B. das Rufzeichen „DDTW“?",
@@ -2737,8 +2908,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 172,
       "questionnumber": 42,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Das Abhörverbot und das Fernmeldegeheimnis sind geregelt…",
@@ -2753,8 +2925,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 173,
       "questionnumber": 43,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Wer ist beim Betrieb einer Seefunkstelle auf einem Sportboot zur Wahrung des Fernmeldegeheimnisses und des Abhörverbots verpflichtet?",
@@ -2769,8 +2942,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 174,
       "questionnumber": 44,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Nachrichten dürfen uneingeschränkt aufgenommen und verbreitet werden?",
@@ -2785,8 +2959,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 175,
       "questionnumber": 45,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Wenn ein Funkgerät ordnungsgemäß in Verkehr gebracht worden ist, trägt es…",
@@ -2801,8 +2976,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 176,
       "questionnumber": 46,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Zur Teilnahme am Binnenschifffahrtsfunk muss eine Seefunkstelle…",
@@ -2817,8 +2993,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 177,
       "questionnumber": 47,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Das Seefunkgerät nimmt bei Empfang einen Strom von 0,5 Ampere auf. Wie lange kann das Funkgerät im Empfangsbetrieb an einer Batterie ohne Nachladen überschlägig betrieben werden, wenn die Kapazität 60 Amperestunden beträgt?",
@@ -2833,8 +3010,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 178,
       "questionnumber": 48,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Auswirkung auf die Betriebsdauer einer Batterie hat der Sendebetrieb einer Seefunkanlage im Vergleich zum Empfangsbetrieb?",
@@ -2849,8 +3027,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 179,
       "questionnumber": 49,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Wie hoch ist die mittlere Stromaufnahme einer UKW-Seefunkanlage im Empfangsbetrieb?",
@@ -2865,8 +3044,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 180,
       "questionnumber": 50,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Wie hoch ist die mittlere Stromaufnahme einer UKW-Seefunkanlage im Sendebetrieb bei 25 Watt Sendeleistung?",
@@ -2881,8 +3061,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 181,
       "questionnumber": 51,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Wozu dient am UKW-Gerät die Rauschsperre (Squelch)?",
@@ -2897,8 +3078,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 182,
       "questionnumber": 52,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 2,
       "categorytitle": "Funkeinrichtungen und Seefunkstellen",
       "question": "Welche Eigenschaften des „GPS“ sind für eine GMDSS-Funkanlage von besonderer Bedeutung?",
@@ -2913,8 +3095,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 183,
       "questionnumber": 53,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Was bedeutet „DSC“ im mobilen Seefunkdienst?",
@@ -2929,8 +3112,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 184,
       "questionnumber": 54,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Was ist ein „Digitaler Selektivruf“?",
@@ -2945,8 +3129,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 185,
       "questionnumber": 55,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Welches technische Verfahren im GMDSS ermöglicht einer Seefunkstelle die Verkehrsaufnahme in den Richtungen Schiff-Küstenfunkstelle und Schiff–Schiff?",
@@ -2961,8 +3146,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 186,
       "questionnumber": 56,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Welcher Unterschied besteht in der Reichweite bei analoger (Sprechfunk) und bei digitaler Übertragung (DSC) im UKW-Seefunkbereich?",
@@ -2977,8 +3163,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 187,
       "questionnumber": 57,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Welcher UKW-Kanal wird im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS) für die digitale Ankündigung einer Dringlichkeitsmeldung benutzt?",
@@ -2993,8 +3180,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 188,
       "questionnumber": 58,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Auf welchem UKW-Kanal erfolgt die Alarmierung mittels DSC?",
@@ -3009,8 +3197,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 189,
       "questionnumber": 59,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Wie wird eine mit DSC-Einrichtungen ausgerüstete Seefunkstelle gekennzeichnet?",
@@ -3025,8 +3214,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 190,
       "questionnumber": 60,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Der mit einem DSC-Gerät aufgenommene Notarlarm wird…",
@@ -3041,8 +3231,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 191,
       "questionnumber": 61,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Was wird als „Maritime Mobile Service Identity (MMSI)“ bezeichnet? [",
@@ -3057,8 +3248,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 192,
       "questionnumber": 62,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Wie lauten die Maritime Identification Digits (MID) für die Bundesrepublik Deutschland?",
@@ -3073,8 +3265,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 193,
       "questionnumber": 63,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Welche Urkunde enthält die eigene Seefunkstellen-Rufnummer (MMSI)?",
@@ -3089,8 +3282,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 194,
       "questionnumber": 64,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Wie setzt sich die Seefunkstellen-Rufnummer (MMSI) zusammen?",
@@ -3105,8 +3299,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 195,
       "questionnumber": 65,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Wie setzt sich die Küstenfunkstellen-Rufnummer (MMSI) zusammen?",
@@ -3121,8 +3316,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 196,
       "questionnumber": 66,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Welche Art von Funkstelle des Seefunkdienstes kennzeichnet die Ziffernfolge 002111240?",
@@ -3137,8 +3333,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 197,
       "questionnumber": 67,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Woran ist die Nationalität der Seefunkstelle in der MMSI erkennbar?",
@@ -3153,8 +3350,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 198,
       "questionnumber": 68,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 3,
       "categorytitle": "Digitaler Selektivruf (DSC)",
       "question": "Durch die Verbindung mit welchem Gerät ist gewährleistet, dass bei einem DSC-Notalarm die aktuelle Position automatisch mit ausgesendet wird?",
@@ -3169,8 +3367,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 199,
       "questionnumber": 69,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Wie wird der Frequenzbereich von 30 bis 300 MHz bezeichnet?",
@@ -3185,8 +3384,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 200,
       "questionnumber": 70,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Welches Funkzeugnis muss der Führer eines Sportfahrzeugs oder Traditionsschiffes, das mit einer UKW-Seefunkstelle ausgerüstet ist, mindestens besitzen, um am GMDSS teilnehmen zu dürfen?",
@@ -3201,8 +3401,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 201,
       "questionnumber": 71,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "An welchem Funkdienst darf der Inhaber eines Beschränkt Gültigen Funkbetriebszeugnisses (SRC) teilnehmen?",
@@ -3217,8 +3418,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 202,
       "questionnumber": 72,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Was kennzeichnet die Betriebsart „Duplex“?",
@@ -3233,8 +3435,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 203,
       "questionnumber": 73,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Was kennzeichnet die Betriebsart „Simplex“?",
@@ -3249,8 +3452,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 204,
       "questionnumber": 74,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Welche Betriebsart wird als „Semi-Duplex“ bezeichnet?",
@@ -3265,8 +3469,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 205,
       "questionnumber": 75,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Welche UKW-Kanäle sind international ausschließlich für den Funkverkehr zwischen Seefunkstellen vorgesehen?",
@@ -3281,8 +3486,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 206,
       "questionnumber": 76,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Für welchen Funkverkehr dürfen die UKW-Kanäle 75 und 76 benutzt werden?",
@@ -3297,8 +3503,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 207,
       "questionnumber": 77,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Atmosphärische Störungen des Funkverkehrs sind …",
@@ -3313,8 +3520,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 208,
       "questionnumber": 78,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Wie breiten sich Ultrakurzwellen (UKW\/VHF) aus?",
@@ -3329,8 +3537,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 209,
       "questionnumber": 79,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Wie werden die internationalen Kanäle im UKW-Seefunkbereich bezeichnet?",
@@ -3345,8 +3554,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 210,
       "questionnumber": 80,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Wovon hängt die Reichweite einer UKW-Funkanlage hauptsächlich ab?",
@@ -3361,8 +3571,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 211,
       "questionnumber": 81,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Wie sollen UKW-Antennen ausgerichtet werden?",
@@ -3377,8 +3588,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 212,
       "questionnumber": 82,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Wodurch kann die Abstrahlung der Sendeenergie einer UKW-Anlage auf einem Schiff wesentlich beeinträchtigt werden?",
@@ -3393,8 +3605,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 213,
       "questionnumber": 83,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Was hat keinen Einfluss auf die Reichweite eines UKW-Handsprechfunkgerätes?",
@@ -3409,8 +3622,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 214,
       "questionnumber": 84,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 4,
       "categorytitle": "UKW (VHF)–Sprechfunk",
       "question": "Ist das Senden auf UKW in ausländischen Häfen gestattet? ",
@@ -3425,8 +3639,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 215,
       "questionnumber": 85,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Wie ist die Rangfolge der Aussendungen im Seefunkdienst festgelegt?",
@@ -3441,8 +3656,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 216,
       "questionnumber": 86,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Welche Vorkommnisse im Seefunkdienst sollen im Schiffstagebuch dokumentiert werden?",
@@ -3457,8 +3673,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 217,
       "questionnumber": 87,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Welchem Funkverkehr ist der Nachrichtenaustausch zwischen Küstenfunkstellen des Revier- und Hafenfunkdienstes und Seefunkstellen zuzuordnen?",
@@ -3473,8 +3690,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 218,
       "questionnumber": 88,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Wozu dient der Revier- und Hafenfunkdienst? ",
@@ -3489,8 +3707,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 219,
       "questionnumber": 89,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Welcher Funkdienst gehört neben dem Revier- und Hafenfunkdienst ebenfalls zum Sicherheitsfunkdienst innerhalb des mobilen Seefunkdienstes?",
@@ -3505,8 +3724,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 220,
       "questionnumber": 90,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Wer bestimmt bei einer Verbindung zwischen See- und Küstenfunkstelle den für die weitere Verkehrsabwicklung zu benutzenden Arbeitskanal?",
@@ -3521,8 +3741,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 221,
       "questionnumber": 91,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Wie ist eine Küstenfunkstelle des Revier- und Hafenfunkdienstes gekennzeichnet?",
@@ -3537,8 +3758,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 222,
       "questionnumber": 92,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Welche Funkstelle wird mit dem Rufnamen „Warnemünde Traffic“ gerufen?",
@@ -3553,8 +3775,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 223,
       "questionnumber": 93,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Was zeigt das Dringlichkeitszeichen an?",
@@ -3569,8 +3792,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 224,
       "questionnumber": 94,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Wie lautet das Dringlichkeitszeichen im Sprechfunk?",
@@ -3585,8 +3809,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 225,
       "questionnumber": 95,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Was wird im Sprechfunk durch das Zeichen PAN PAN angekündigt?",
@@ -3601,8 +3826,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 226,
       "questionnumber": 96,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Wie ist im GMDSS zu verfahren, wenn eine dringende Meldung im UKW-Bereich auszusenden ist, welche die Sicherheit einer Person betrifft?",
@@ -3617,8 +3843,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 227,
       "questionnumber": 97,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Was bedeutet im DSC-Controller die Anzeige „URGENCY“?",
@@ -3633,8 +3860,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 228,
       "questionnumber": 98,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "An wen dürfen Dringlichkeitsmeldungen im Seefunkdienst grundsätzlich gerichtet werden?",
@@ -3649,8 +3877,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 229,
       "questionnumber": 99,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Wie ist zu verfahren, wenn eine an alle Funkstellen ausgesendete Dringlichkeitsmeldung erledigt ist?",
@@ -3665,8 +3894,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 230,
       "questionnumber": 100,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Wie lautet das Sicherheitszeichen im Seefunkdienst?",
@@ -3681,8 +3911,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 231,
       "questionnumber": 101,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Welche Meldung wird mit SECURITE eingeleitet?",
@@ -3697,8 +3928,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 232,
       "questionnumber": 102,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Welchen Inhalt kann eine Sicherheitsmeldung haben?",
@@ -3713,8 +3945,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 233,
       "questionnumber": 103,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Welche UKW-Kanäle benutzen Sportfahrzeuge für den Funkverkehr untereinander vorzugsweise in den deutschen Hoheitsgewässern?",
@@ -3729,8 +3962,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 234,
       "questionnumber": 104,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Für welche Verkehrsabwicklungen werden UKW-Handsprechfunkgeräte vorzugs- weise verwendet?",
@@ -3745,8 +3979,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 235,
       "questionnumber": 105,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Was ist bei Testsendungen im Sprech-Seefunkdienst zu beachten?",
@@ -3761,8 +3996,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 236,
       "questionnumber": 106,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Betriebsart wird für den Schiff-Schiff-Verkehr auf UKW im Sprechfunkverfahren verwendet?",
@@ -3777,8 +4013,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 237,
       "questionnumber": 107,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Der UKW-Kanal 70 dient ausschließlich dem Zweck der Aussendung …",
@@ -3793,8 +4030,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 238,
       "questionnumber": 108,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Welchen Zwecken dient der UKW-Kanal 16 (156,8 MHz) im Seefunkdienst?",
@@ -3809,8 +4047,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 239,
       "questionnumber": 109,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Auf welchem UKW-Kanal muss ein Sportfahrzeug empfangsbereit sein, wenn es sich auf See befindet und mit einer GMDSS-Seefunkanlage ausgerüstet ist?",
@@ -3825,8 +4064,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 240,
       "questionnumber": 110,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Auf welchem UKW-Kanal sollte ein Sportfahrzeug in der Regel empfangsbereit sein, wenn es sich auf See befindet und nur mit einer UKW-Sprechfunkanlage ausgerüstet ist?",
@@ -3841,8 +4081,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 241,
       "questionnumber": 111,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Welcher UKW-Kanal ist vorzugsweise für den Schiff-Schiff-Verkehr und für koordinierte Such- und Rettungseinsätze (SAR) vorgesehen?",
@@ -3857,8 +4098,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 242,
       "questionnumber": 112,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Welchen Zwecken dienen der Anrufkanal und ein Arbeitskanal?",
@@ -3873,8 +4115,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 243,
       "questionnumber": 113,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Auf welchem Kanal ist eine Küstenfunkstelle zu rufen, die sowohl auf dem Kanal 70 als auch auf Kanal 16 sowie auf einem veröffentlichten Arbeitskanal empfangsbereit ist?",
@@ -3889,8 +4132,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 244,
       "questionnumber": 114,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Auf welchem Kanal wird eine Küstenfunkstelle ohne DSC im Routineverkehr gerufen?",
@@ -3905,8 +4149,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 245,
       "questionnumber": 115,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 5,
       "categorytitle": "Betriebsverfahren und Rangfolgen",
       "question": "Was ist vor dem Anruf auf einem Arbeitskanal zu beachten?",
@@ -3921,8 +4166,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 246,
       "questionnumber": 116,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 6,
       "categorytitle": "Nautische und meteorologische Warnnachrichten (NAVTEX)",
       "question": "Was bedeutet „NAVTEX“?",
@@ -3937,8 +4183,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 247,
       "questionnumber": 117,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 6,
       "categorytitle": "Nautische und meteorologische Warnnachrichten (NAVTEX)",
       "question": "Wie heißt der Dienst, in dem Nachrichten für die Sicherheit der Seeschifffahrt (MSI) über terrestrische Frequenzen verbreitet werden?",
@@ -3953,8 +4200,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 248,
       "questionnumber": 118,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 6,
       "categorytitle": "Nautische und meteorologische Warnnachrichten (NAVTEX)",
       "question": "Welchen Dienst bieten der Deutsche Wetterdienst (DWD) und das Bundesamt für Seeschifffahrt und Hydrographie (BSH) auf den Frequenzen 518 kHz und 490 kHz gemeinsam an?",
@@ -3969,8 +4217,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 249,
       "questionnumber": 119,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 6,
       "categorytitle": "Nautische und meteorologische Warnnachrichten (NAVTEX)",
       "question": "Bis zu welcher Entfernung vom Standort des Senders können Sicherheitsmeldungen für die Seeschifffahrt im NAVTEX-Dienst empfangen werden?",
@@ -3985,8 +4234,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 250,
       "questionnumber": 120,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 6,
       "categorytitle": "Nautische und meteorologische Warnnachrichten (NAVTEX)",
       "question": "Worauf muss beim Einstellen eines NAVTEX-Empfängers geachtet werden?",
@@ -4001,8 +4251,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 251,
       "questionnumber": 121,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 6,
       "categorytitle": "Nautische und meteorologische Warnnachrichten (NAVTEX)",
       "question": "Welche Informationen können bei der Programmierung eines NAVTEX-Empfängers nicht unterdrückt werden?",
@@ -4017,8 +4268,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 252,
       "questionnumber": 122,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 6,
       "categorytitle": "Nautische und meteorologische Warnnachrichten (NAVTEX)",
       "question": "In welcher Sprache werden Nachrichten für die Sicherheit der Seeschifffahrt (MSI) im NAVTEX-Dienst auf 490 kHz verbreitet?",
@@ -4033,8 +4285,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 253,
       "questionnumber": 123,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 6,
       "categorytitle": "Nautische und meteorologische Warnnachrichten (NAVTEX)",
       "question": "In welchen Zeitabständen werden die regelmäßigen NAVTEX-Informationen vom deutschen NAVTEX-Sender ausgesendet?",
@@ -4049,8 +4302,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 254,
       "questionnumber": 124,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 6,
       "categorytitle": "Nautische und meteorologische Warnnachrichten (NAVTEX)",
       "question": "Was bezeichnet „NAVAREA“?",
@@ -4065,8 +4319,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 255,
       "questionnumber": 125,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Was bezeichnet „SAR“?",
@@ -4081,8 +4336,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 256,
       "questionnumber": 126,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Aufgabe hat ein „RCC“ im Seenotfall?",
@@ -4097,8 +4353,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 257,
       "questionnumber": 127,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Aufgabe hat ein „MRCC“ im Seenotfall?",
@@ -4113,8 +4370,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 258,
       "questionnumber": 128,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Was ist „On-Scene Communication“?",
@@ -4129,8 +4387,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 259,
       "questionnumber": 129,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Aufgabe hat der „On-Scene Coordinator“ (OSC) im SAR-Fall?",
@@ -4145,8 +4404,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 260,
       "questionnumber": 130,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Was bedeutet „Funkverkehr vor Ort“?",
@@ -4161,8 +4421,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 261,
       "questionnumber": 131,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wer darf das Aussenden einer Notmeldung im Seefunkdienst veranlassen?",
@@ -4177,8 +4438,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 262,
       "questionnumber": 132,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Auf welchem UKW-Kanal müssen alle mit DSC ausgerüsteten seegehenden Schiffe im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS empfangsbereit sein?",
@@ -4193,8 +4455,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 263,
       "questionnumber": 133,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wie lautet das Notzeichen im Sprechfunk?",
@@ -4209,8 +4472,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 264,
       "questionnumber": 134,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Womit wird der Notverkehr im Sprechfunk eingeleitet?",
@@ -4225,8 +4489,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 265,
       "questionnumber": 135,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wann liegt ein Seenotfall vor, der das Aussenden des Notzeichens im Sprechfunk rechtfertigt?",
@@ -4241,8 +4506,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 266,
       "questionnumber": 136,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Priorität der Alarmierung ist zu wählen, wenn sich eine Person in Lebensgefahr befindet und Hilfe benötigt?",
@@ -4257,8 +4523,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 267,
       "questionnumber": 137,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Frequenzen dürfen neben den Notfrequenzen für die Aussendung einer Notmeldung im Seefunkdienst benutzt werden?",
@@ -4273,8 +4540,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 268,
       "questionnumber": 138,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Auf welchem UKW-Kanal findet der Notverkehr vorzugsweise statt?",
@@ -4289,8 +4557,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 269,
       "questionnumber": 139,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Meldungen dürfen im Weltweiten Seenot- und Sicherheitsfunksystem (GMDSS) auf UKW-Kanal 16 (156,8 MHz) übermittelt werden?",
@@ -4305,8 +4574,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 270,
       "questionnumber": 140,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wann und warum wird die Einleitung eines Notverkehrs wiederholt?",
@@ -4321,8 +4591,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 271,
       "questionnumber": 141,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "An wen soll eine Seefunkstelle den Notalarm für ein anderes in Not befindliches Schiff richten?",
@@ -4337,8 +4608,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 272,
       "questionnumber": 142,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Voraussetzung muss eine Seefunkstelle erfüllen, die den Empfang eines DSC-Notalarms auf UKW im Sprechfunkverfahren bestätigt?",
@@ -4353,8 +4625,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 273,
       "questionnumber": 143,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wann darf eine Seefunkstelle, wenn sie Hilfe leisten kann, den Empfang eines DSC-Notalarms auf UKW im Sprechfunkverfahren bestätigen?",
@@ -4369,8 +4642,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 274,
       "questionnumber": 144,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Auf welchem UKW-Kanal und in welchem Verfahren bestätigt eine Seefunkstelle den auf Kanal 70 empfangenen Notalarm?",
@@ -4385,8 +4659,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 275,
       "questionnumber": 145,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wann wird im Seefunkdienst die Aufforderung SILENCE MAYDAY ausgesendet?",
@@ -4401,8 +4676,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 276,
       "questionnumber": 146,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wer fordert in einem Seenotfall eine störende Funkstelle mit den Wörtern SILENCE MAYDAY zur Einhaltung der Funkstille auf?",
@@ -4417,8 +4693,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 277,
       "questionnumber": 147,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Aufgaben übernimmt die Seenotleitung (Maritime Rescue Co-ordination Centre [MRCC]) nach Eingang eines Notalarms?",
@@ -4433,8 +4710,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 278,
       "questionnumber": 148,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Auf welchen UKW-Kanälen ist Bremen Rescue Radio empfangsbereit?",
@@ -4449,8 +4727,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 279,
       "questionnumber": 149,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Nach welchem Betriebsverfahren wird der Funkverkehr in Notfällen zwischen Seefunkstellen und SAR-Hubschraubern abgewickelt?",
@@ -4465,8 +4744,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 280,
       "questionnumber": 150,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Veröffentlichung enthält Angaben zu Verfahren, Abkürzungen und international entwickelte Redewendungen für Notfälle?",
@@ -4481,8 +4761,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 281,
       "questionnumber": 151,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "In welchem Frequenzbereich kann mit SAR-Einheiten Seefunkverkehr abgewickelt werden?",
@@ -4497,8 +4778,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 282,
       "questionnumber": 152,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Im Funkverkehr zwischen Seefunkstellen und SAR-Hubschraubern gilt das Betriebsverfahren…",
@@ -4513,8 +4795,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 283,
       "questionnumber": 153,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Auf welchen UKW-Kanälen dürfen zu Sicherheitszwecken Seefunkstellen mit SAR-Hubschraubern Funkverkehr vorzugsweise abwickeln?",
@@ -4529,8 +4812,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 284,
       "questionnumber": 154,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wodurch werden in der Regel bei einer Rettungsaktion mit SAR Hubschraubern die Kanäle 16 und 06 überwacht?",
@@ -4545,8 +4829,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 285,
       "questionnumber": 155,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welchen UKW-Kanal soll ein Schiff in Not bis zur Ankunft eines SAR-Hubschraubers abhören?",
@@ -4561,8 +4846,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 286,
       "questionnumber": 156,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wie ist zu verfahren, wenn während eines Notverkehrs auf Kanal 16 die Ankündigung einer Dringlichkeits- oder Sicherheitsmeldung „An alle Funkstellen“ vorgenommen werden soll?",
@@ -4577,8 +4863,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 287,
       "questionnumber": 157,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Was ist zu tun, wenn irrtümlich von einer Seefunkstelle ein Notalarm auf Kanal 70 ausgelöst worden ist?",
@@ -4593,8 +4880,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 288,
       "questionnumber": 158,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Womit können im Notfall nach dem Verlassen des havarierten Schiffes keine Such- und Rettungsarbeiten ausgelöst bzw. erleichtert werden?",
@@ -4609,8 +4897,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 289,
       "questionnumber": 159,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Komponenten des Weltweiten Seenot- und Sicherheitsfunksystems (GMDSS) werden für die Aussendung von Signalen zur Ortsbestimmung eingesetzt?",
@@ -4625,8 +4914,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 290,
       "questionnumber": 160,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wo soll eine Satelliten-Seenotfunkbake (EPIRB) an Bord eines Sportbootes installiert werden?",
@@ -4641,8 +4931,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 291,
       "questionnumber": 161,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wann darf eine Satelliten-Seenotfunkbake (EPIRB) für eine Aussendung aktiviert werden?",
@@ -4657,8 +4948,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 292,
       "questionnumber": 162,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wie kann eine Satelliten-Seenotfunkbake (EPIRB) im Notfall aktiviert werden?",
@@ -4673,8 +4965,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 293,
       "questionnumber": 163,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wodurch wird eine EPIRB im Seenotfall automatisch aktiviert?",
@@ -4689,8 +4982,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 294,
       "questionnumber": 164,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Informationen enthält die Aussendung einer Satelliten-Seenotfunkbake (EPIRB)?",
@@ -4705,8 +4999,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 295,
       "questionnumber": 165,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wie lange dauert es in den Seegebieten A1 bis A3, bis der Alarm einer COSPAS-SARSAT- Satelliten-Seenotfunkbake (EPIRB) bei der zuständigen Seenotleitung (MRCC) aufläuft?",
@@ -4721,8 +5016,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 296,
       "questionnumber": 166,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wie lange kann es unter ungünstigen Bedingungen von der Aktivierung einer COSPAS-SARSAT-Satelliten-Seenotfunkbake ohne GPS bis zum Empfang der Position im MRCC dauern?",
@@ -4737,8 +5033,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 297,
       "questionnumber": 167,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Warum dauert es unter ungünstigen Bedingungen von der Aktivierung einer COSPAS-SARSAT-Satelliten-Seenotfunkbake ohne GPS bis zum Empfang der Position im MRCC bis zu vier Stunden?",
@@ -4753,8 +5050,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 298,
       "questionnumber": 168,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Wie groß ist die maximale Abweichung der ermittelten von der tatsächlichen Position einer COSPAS-SARSAT-Seenotfunkbake (EPIRB) ohne GPS?",
@@ -4769,8 +5067,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 299,
       "questionnumber": 169,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Zu welchem Zweck benutzen Satelliten-Seenotfunkbaken (EPIRB) die Frequenzen 121,5 MHz und 406 MHz?",
@@ -4785,8 +5084,9 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 300,
       "questionnumber": 170,
-       "certificate": "SRC",
+      "certificate": "SRC",
       "categoryid": 7,
       "categorytitle": "Suche und Rettung (SAR), Seenotfunkbake (EPIRB) und Radartransponder (SART)",
       "question": "Welche Informationen müssen an einer Satelliten-Seenotfunkbake (EPIRB) erkennbar sein?",
@@ -4801,6 +5101,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 301,
       "questionnumber": 171,
       "certificate": "SRC",
       "categoryid": 7,
@@ -4817,6 +5118,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 302,
       "questionnumber": 172,
       "certificate": "SRC",
       "categoryid": 7,
@@ -4833,6 +5135,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 303,
       "questionnumber": 173,
       "certificate": "SRC",
       "categoryid": 7,
@@ -4849,6 +5152,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 304,
       "questionnumber": 174,
       "certificate": "SRC",
       "categoryid": 7,
@@ -4865,6 +5169,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 305,
       "questionnumber": 175,
       "certificate": "SRC",
       "categoryid": 7,
@@ -4881,6 +5186,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 306,
       "questionnumber": 176,
       "certificate": "SRC",
       "categoryid": 7,
@@ -4897,6 +5203,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 307,
       "questionnumber": 177,
       "certificate": "SRC",
       "categoryid": 7,
@@ -4913,6 +5220,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 308,
       "questionnumber": 178,
       "certificate": "SRC",
       "categoryid": 7,
@@ -4929,6 +5237,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 309,
       "questionnumber": 179,
       "certificate": "SRC",
       "categoryid": 7,
@@ -4945,6 +5254,7 @@
       "questioncorrect": 0
      },
      {
+     "questionid": 310,
       "questionnumber": 180,
       "certificate": "SRC",
       "categoryid": 7,

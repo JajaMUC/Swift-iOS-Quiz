@@ -11,16 +11,11 @@ struct StatusButton: View {
     
     var color = Color.button
     var imageName = "sailboat"
-    var status: Int16 = 0
+    var questionstatus: Int = 0
     
     var body: some View {
         Image(systemName: imageName)
-            .foregroundColor(status == 0 ? .statuszero : (status == 1 ? .statusone : (status == 2 ? .statustwo : .gray)))
+            .foregroundColor(questionstatus == 1 ? .statusone : (questionstatus == 2 ? .statustwo : (questionstatus == 3 ? .statusthree : .gray)))
     }
     
-}
-
-
-#Preview {
-    StatusButton()
 }

@@ -24,7 +24,3 @@ struct QuizButton: View {
             .shadow(radius: 10)
     }
 }
-
-#Preview {
-    QuizButton()
-}

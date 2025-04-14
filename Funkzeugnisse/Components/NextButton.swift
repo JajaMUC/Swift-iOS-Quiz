@@ -5,15 +5,14 @@
 //  Created by Janin Schroth on 19.12.24.
 //
 
+import SwiftData
 import SwiftUI
 
 struct NextButton: View {
     @EnvironmentObject var quizController: QuizController
-    @Environment(\.managedObjectContext) var moc
 
-    var background = Color.gray
-    var imageName = "target"
-    
+    var background: Color = Color.gray
+    var imageName: String = "target"
     
     var body: some View {
         Image(systemName: imageName)
@@ -27,16 +26,11 @@ struct NextButton: View {
             .onTapGesture {
                 if quizController.answerAnswered {
                     quizController.goToNextQuestion()
+                    
                 }
                 if quizController.answerSelected {
                     quizController.logAnswer()
                 }
             }
     }
-}
-
-
-#Preview {
-    NextButton()
-        .environmentObject(QuizController(name: "data.json"))
 }

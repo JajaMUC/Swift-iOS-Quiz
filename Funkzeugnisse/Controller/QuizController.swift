@@ -19,8 +19,8 @@ class QuizController: ObservableObject {
     @Published private(set) var answerSelection = [false, false, false, false]
     @Published private(set) var answerAnswered = false
     @Published private(set) var question: String = ""
-    @Published private(set) var questionnumber: Int16 = 0
-    @Published private(set) var questionid: UUID = UUID()
+    @Published private(set) var questionnumber: Int = 0
+    @Published private(set) var questionid: Int = 0
     @Published private(set) var answerChoices: [Answer] = []
     @Published private(set) var currentQuiz: [Quiz.Result] = []
     @Published private(set) var questionnaireid = 0
@@ -161,7 +161,7 @@ class QuizController: ObservableObject {
         if index < length {
             let currentQuizQuestion = currentQuiz[index]
             questionnumber = currentQuizQuestion.questionnumber
-            questionid = currentQuizQuestion.id
+            questionid = currentQuizQuestion.questionid
             question = currentQuizQuestion.question
             answerChoices = currentQuizQuestion.answers.shuffled()
         }
