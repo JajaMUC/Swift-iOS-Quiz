@@ -10,10 +10,10 @@ import SwiftUI
 
 struct QuizView: View {
     @EnvironmentObject var quizController: QuizController
-    var categoryid: Int
-    var certificate: String
+    var categoryId: Int
+    var quizCertificate: String
     var modus: String
-    var questionnaireid: Int
+    var questionnaireId: Int
     
     var body: some View {
         VStack {
@@ -21,7 +21,7 @@ struct QuizView: View {
                 .environmentObject(quizController)
         }
         .onAppear() {
-            quizController.setCurrentQuiz(categoryid: categoryid, certificate: certificate, modus: modus, questionnaireid: questionnaireid)
+            quizController.setCurrentQuiz(categoryId: categoryId, quizCertificate: quizCertificate, modus: modus, questionnaireId: questionnaireId)
             quizController.setQuestion()
         }
         .onDisappear(){
@@ -31,7 +31,7 @@ struct QuizView: View {
 }
 
  #Preview {
-     QuizView(categoryid: 4, certificate: "UBI", modus: "quiz", questionnaireid: 4)
+     QuizView(categoryId: 4, quizCertificate: "UBI", modus: "quiz", questionnaireId: 4)
  .environmentObject(QuizController(name: "data.json"))
  }
  

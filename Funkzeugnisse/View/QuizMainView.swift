@@ -9,66 +9,37 @@ import SwiftUI
 import CoreData
 
 struct QuizMainView: View {
-    var certificate: String = ""
+    var quizCertificate: String = ""
     @EnvironmentObject var quizController: QuizController
 
     var body: some View {
         NavigationStack {
             VStack (alignment: .leading) {
-                Text("UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk")
+                Text("Sprechfunkzeugnis für den Binnenschifffahrtsfunk")
                     .multilineTextAlignment(.leading)
                     .font(.system(size: 20))
                     .padding([.leading, .trailing], 19)
                                 
-                VStack (spacing: 40) {
-                    VStack (alignment: .leading, spacing: 12) {
-                        Text("Lernmodus")
-                            .font(.system(size: 20))
-                            .bold()
+                VStack (spacing: 15) {
+                    VStack (alignment: .leading, spacing: 15) {
                         NavigationLink{
-                            QuizSelectView(certificate: certificate)
+                            QuizSelectView(quizCertificate: quizCertificate)
                                 .environmentObject(quizController)
                         } label: {
-                            QuizButton(text: certificate)
+                            QuizButton(text: "Lernmodus")
                         }
                         NavigationLink{
-                            QuizSelectView(certificate: "SRCUBI")
+                            QuestionnaireSelectView(quizCertificate: "SRCUBI")
                                 .environmentObject(quizController)
                         } label: {
-                            QuizButton(text: "SRC auf UBI")
+                            QuizButton(text: "Prüfungsmodus")
                         }
                     }
                     .padding()
                     .frame(maxWidth: .infinity)
-                    .background(Color.white)
+                    .background(Color.background)
                     .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
-                    .navigationTitle(certificate)
-                    
-                    
-                    VStack (alignment: .leading, spacing: 12) {
-                        Text("Prüfungsbögen")
-                            .font(.system(size: 20))
-                            .bold()
-                        NavigationLink{
-                            QuestionnaireSelectView(certificate: certificate)
-                                .environmentObject(quizController)
-                        } label: {
-                            QuizButton(text: "UBI")
-                        }
-                        NavigationLink{
-                            QuestionnaireSelectView(certificate: "SRCUBI")
-                                .environmentObject(quizController)
-                        } label: {
-                            QuizButton(text: "SRC auf UBI")
-                        }
-                    }
-                    .padding()
-                    .frame(maxWidth: .infinity)
-                    .background(Color.white)
-                    .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
-                    .navigationTitle(certificate)
-                    .font(.title2)
-
+                    .navigationTitle(quizCertificate)
                 }
                 .padding()
                 Spacer()

@@ -9,22 +9,38 @@ import Foundation
 
 class QuizController: ObservableObject {
     
+    //
     @Published private(set) var name: String
-    private(set) var quiz: [Quiz.Result] = []
-    @Published private(set) var length = 0
-    @Published private(set) var index = 0
-    @Published var reachedEnd = false
-    @Published private(set) var answerSelected = false
-    @Published private(set) var answeredCorrectly = false
-    @Published private(set) var answerSelection = [false, false, false, false]
-    @Published private(set) var answerAnswered = false
-    @Published private(set) var question: String = ""
-    @Published private(set) var questionnumber: Int = 0
-    @Published private(set) var questionid: Int = 0
-    @Published private(set) var answerChoices: [Answer] = []
-    @Published private(set) var currentQuiz: [Quiz.Result] = []
-    @Published private(set) var questionnaireid = 0
     
+    //Quiz
+    private(set) var quiz: [Quiz.Question] = []
+    @Published private(set) var currentQuiz: [Quiz.Question] = []
+    @Published private(set) var length: Int = 0
+    @Published private(set) var index: Int = 0
+    @Published var reachedEnd: Bool = false
+    @Published private(set) var quizCertificate: String = ""
+    @Published private(set) var questionnaireId: Int = 0
+    @Published private(set) var questionNumber: Int = 0
+    
+    //Quiz-Controller
+    @Published var answerAnswered: Bool = true
+    @Published private(set) var answerSelected: Bool = false
+    @Published private(set) var answeredCorrectly: Bool = false
+    @Published private(set) var answerSelection: [Bool] = [false, false, false, false]
+    @Published var test: Int = 0
+    
+    //Question-Content
+    @Published private(set) var question: String = ""
+    @Published private(set) var answerChoices: [Answer] = []
+    
+    //Question-Metadata = Model-Data
+    @Published private(set) var questionId: Int = 0
+    @Published private(set) var certificate: String = ""
+    @Published private(set) var categoryId: Int = 0
+    @Published private(set) var questionStatus: Int = 0
+    @Published private(set) var questionAnswered: Int = 0
+    @Published private(set) var questionCorrect: Int = 0
+
     init(name: String) {
         self.name = name
         fetchQuiz(name)
@@ -49,31 +65,31 @@ class QuizController: ObservableObject {
             decoder.keyDecodingStrategy = .convertFromSnakeCase
             let decodedData = try decoder.decode(Quiz.self, from: data)
             
-            self.quiz = decodedData.results
+            self.quiz = decodedData.questions
             
         } catch {
             print("Error fetching trivia: \(error)")
         }
     }
     
-    func setCurrentQuiz(categoryid: Int, certificate: String, modus: String, questionnaireid: Int) {
+    func setCurrentQuiz(categoryId: Int, quizCertificate: String, modus: String, questionnaireId: Int) {
         reachedEnd = false
         currentQuiz = []
         switch modus {
         //Quiz für den Lernmodus setzen
         case "review":
-            if categoryid != 0 {
-                if certificate == "SRCUBI" {
+            if categoryId != 0 {
+                if quizCertificate == "SRCUBI" {
                     for i in 0...quiz.count - 1 {
                         if quiz[i].certificate == "UBI" {
-                            if quiz[i].categoryid == categoryid && quiz[i].questionnairesrc[0] != 0 {
+                            if quiz[i].categoryId == categoryId && quiz[i].questionnaireSrc[0] != 0 {
                                 currentQuiz.append(quiz[i])
                             }
                         }
                     }
                 } else {
                     for i in 0...quiz.count-1 {
-                        if quiz[i].categoryid == categoryid && quiz[i].certificate == certificate {
+                        if quiz[i].categoryId == categoryId && quiz[i].certificate == quizCertificate {
                             currentQuiz.append(quiz[i])
                         }
                     }
@@ -81,13 +97,13 @@ class QuizController: ObservableObject {
             } else {
                 if certificate == "SRCUBI" {
                     for i in 0...quiz.count - 1 {
-                        if quiz[i].certificate == "UBI" && quiz[i].questionnairesrc[0] != 0 {
+                        if quiz[i].certificate == "UBI" && quiz[i].questionnaireSrc[0] != 0 {
                                 currentQuiz.append(quiz[i])
                         }
                     }
                 } else {
                     for i in 0...quiz.count-1 	{
-                        if quiz[i].certificate == certificate {
+                        if quiz[i].certificate == quizCertificate {
                             currentQuiz.append(quiz[i])
                         }
                     }
@@ -99,15 +115,15 @@ class QuizController: ObservableObject {
             //Quiz für den Prüfungsmodus setzen
 
         case "questionnaire":
-            if certificate == "SRCUBI" {
+            if quizCertificate == "SRCUBI" {
                 for i in 0...quiz.count - 1 {
-                    if quiz[i].questionnairesrc.contains(questionnaireid) {
+                    if quiz[i].questionnaireSrc.contains(questionnaireId) {
                         currentQuiz.append(quiz[i])
                     }
                 }
             } else {
                 for i in 0...quiz.count - 1 {
-                    if quiz[i].questionnaireall.contains(questionnaireid) {
+                    if quiz[i].questionnaireAll.contains(questionnaireId) {
                         currentQuiz.append(quiz[i])
                     }
                 }
@@ -115,17 +131,17 @@ class QuizController: ObservableObject {
             length = currentQuiz.count
 
         default:
-            if categoryid != 0 {
-                if certificate == "UBI" || certificate == "SRC" {
+            if categoryId != 0 {
+                if quizCertificate == "UBI" || quizCertificate == "SRC" {
                     for i in 0...quiz.count - 1 {
-                        if quiz[i].categoryid == categoryid {
+                        if quiz[i].categoryId == categoryId {
                             currentQuiz.append(quiz[i])
                         }
                     }
                 }
-                if certificate == "SRCUBI" {
+                if quizCertificate == "SRCUBI" {
                     for i in 0...quiz.count - 1 {
-                        if quiz[i].categoryid == categoryid && quiz[i].questionnairesrc[0] != 0 {
+                        if quiz[i].categoryId == categoryId && quiz[i].questionnaireSrc[0] != 0 {
                             currentQuiz.append(quiz[i])
                         }
                     }
@@ -134,13 +150,13 @@ class QuizController: ObservableObject {
         }
     }
     
-    
     func resetQuiz() {
         currentQuiz = []
         length = 0
         index = 0
+        //testing parameter
     }
-        
+    
     func goToNextQuestion() {
         if index + 1 < length {
             index += 1
@@ -152,19 +168,19 @@ class QuizController: ObservableObject {
     }
         
     func setQuestion() {
-        answerSelected = false
-        answerAnswered = false
-        answeredCorrectly = false
         for i in 0...3 {
             answerSelection[i] = false
         }
         if index < length {
             let currentQuizQuestion = currentQuiz[index]
-            questionnumber = currentQuizQuestion.questionnumber
-            questionid = currentQuizQuestion.questionid
+            questionNumber = currentQuizQuestion.questionNumber
+            questionId = currentQuizQuestion.questionId
             question = currentQuizQuestion.question
             answerChoices = currentQuizQuestion.answers.shuffled()
         }
+        answerSelected = false
+        answerAnswered = false
+        answeredCorrectly = false
     }
     
     func selectAnswer(answer: Answer) {
@@ -181,7 +197,20 @@ class QuizController: ObservableObject {
         }
     }
     
+    func setQuestionStatus(questionStatus: Int) {
+        self.questionStatus = questionStatus
+    }
+    
     func logAnswer() {
         answerAnswered = true
+    }
+    
+    func setModelData(question: Question) {
+        self.questionId = question.questionId
+        self.certificate = question.certificate
+        self.categoryId = question.categoryId
+        self.questionStatus = question.questionStatus
+        self.questionAnswered = question.questionAnswered
+        self.questionCorrect = question.questionCorrect
     }
 }

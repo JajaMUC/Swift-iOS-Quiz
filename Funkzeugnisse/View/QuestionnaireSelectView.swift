@@ -10,8 +10,8 @@ import Foundation
 
 struct QuestionnaireSelectView: View {
     @EnvironmentObject var quizController: QuizController
-    var certificate: String
-    var categoryid = 0
+    var quizCertificate: String
+    var categoryId = 0
     var modus: String = "questionnaire"
     
     var body: some View {
@@ -20,13 +20,13 @@ struct QuestionnaireSelectView: View {
             NavigationStack {
                 ScrollView {
                     VStack (spacing: 15) {
-                        ForEach (1...12, id: \.self) { questionnaireid in
+                        ForEach (1...12, id: \.self) { questionnaireId in
                             NavigationLink {
-                                QuizView(categoryid: categoryid, certificate: certificate, modus: modus, questionnaireid: questionnaireid)
+                                QuizView(categoryId: categoryId, quizCertificate: quizCertificate, modus: modus, questionnaireId: questionnaireId)
                                     .environmentObject(quizController)
                                 
                             } label: {
-                                QuizButton(text: "Fragebogen \(questionnaireid)")
+                                QuizButton(text: "Fragebogen \(questionnaireId)")
                             }
                         }
                     }
@@ -38,11 +38,13 @@ struct QuestionnaireSelectView: View {
                
         }
         .padding()
+        .background(Color.background)
+       
     }
 }
 
 #Preview {
-    QuestionnaireSelectView(certificate: "UBI", categoryid: 0)
+    QuestionnaireSelectView(quizCertificate: "UBI", categoryId: 0)
         .environmentObject(QuizController(name: "data.json"))
 
 }

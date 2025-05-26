@@ -23,10 +23,10 @@ struct AnswerButton: View {
         }
         .padding()
         .frame(maxWidth: .infinity, alignment: .leading)
-        .foregroundColor(Color.button)
-        .background(Color.lightBlue)
+        .foregroundColor(Color.buttonBlue)
+        .background(Color.background)
         .cornerRadius(10)
-        .shadow(color: quizController.answerSelection[answer.index] ? (quizController.answerAnswered ? (answer.isCorrect ? Color.answerCorrect : Color.answerIncorrect) : Color.button) : (quizController.answerAnswered ? (answer.isCorrect ? Color.answerCorrect : .gray) : .gray), radius: 5, x: 1.0, y: 1.0)
+        .shadow(color: quizController.answerSelection[answer.index] ? (quizController.answerAnswered ? (answer.isCorrect ? Color.answerCorrect : Color.answerIncorrect) : Color.buttonBlue) : (quizController.answerAnswered ? (answer.isCorrect ? Color.answerCorrect : .gray) : .gray), radius: 5, x: 1.0, y: 1.0)
         .onTapGesture() {
             if !quizController.answerAnswered {
                 quizController.selectAnswer(answer: answer)

@@ -9,13 +9,13 @@ import SwiftUI
 
 struct StatusButton: View {
     
-    var color = Color.button
+    var color = Color.buttonBlue
     var imageName = "sailboat"
-    var questionstatus: Int = 0
+    var questionStatus: Int = 0
     
     var body: some View {
         Image(systemName: imageName)
-            .foregroundColor(questionstatus == 1 ? .statusone : (questionstatus == 2 ? .statustwo : (questionstatus == 3 ? .statusthree : .gray)))
+            .foregroundColor(questionStatus == 0 ? .statusZero : (questionStatus == 1 ? .statusOne : (questionStatus == 2 ? .statusTwo : .gray)))
     }
     
 }

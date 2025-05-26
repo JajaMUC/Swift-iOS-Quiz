@@ -9,42 +9,42 @@ import Foundation
 
 struct Quiz: Decodable {
     
-    var results: [Result]
+    var questions: [Question]
     
-    struct Result: Decodable  {
+    struct Question: Decodable  {
         var id: UUID {
             UUID()
         }
-        var questionid: Int
-        var questionnumber: Int
+        var questionId: Int
+        var questionNumber: Int
         var certificate: String
-        var categoryid: Int
-        var categorytitle: String
+        var categoryId: Int
+        var categoryTitle: String
         
         var question: String
-        var correctanswer: String
-        var incorrectanswer1: String
-        var incorrectanswer2: String
-        var incorrectanswer3: String
+        var correctAnswer: String
+        var incorrectAnswerOne: String
+        var incorrectAnswerTwo: String
+        var incorrectAnswerThree: String
         
-        var questionnaireall: [Int]
-        var questionnairesrc: [Int]
+        var questionnaireAll: [Int]
+        var questionnaireSrc: [Int]
         
-        var status: Int
-        var questionanswered: Int
-        var questioncorrect: Int
+        var questionStatus: Int
+        var questionAnswered: Int
+        var questionCorrect: Int
         
         
         var answers: [Answer] {
             
-            let correct = [Answer(text: correctanswer, isCorrect: true, index: 0)]
+            let correct = [Answer(text: correctAnswer, isCorrect: true, index: 0)]
             
-            let incorrect1 = [Answer(text: incorrectanswer1, isCorrect: false, index: 1)]
-            let incorrect2 = [Answer(text: incorrectanswer2, isCorrect: false, index: 2)]
-            let incorrect3 = [Answer(text: incorrectanswer3, isCorrect: false, index: 3)]
+            let incorrectOne = [Answer(text: incorrectAnswerOne, isCorrect: false, index: 1)]
+            let incorrectTwo = [Answer(text: incorrectAnswerTwo, isCorrect: false, index: 2)]
+            let incorrectThree = [Answer(text: incorrectAnswerThree, isCorrect: false, index: 3)]
             
             // Merging the correct and incorrect arrays together
-            let allAnswers = correct + incorrect1 + incorrect2 + incorrect3
+            let allAnswers = correct + incorrectOne + incorrectTwo + incorrectThree
             // Shuffling the answers so the correct answer isn't always the first answer of the array
             return allAnswers.shuffled()
         }

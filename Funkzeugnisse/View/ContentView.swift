@@ -15,38 +15,50 @@ struct ContentView: View {
     var body: some View {
         
         NavigationStack () {
-            VStack {
+            VStack () {
+                Text("Funkscheine")
+                Text("Lerne mit dieser App für Deine Funkscheine")
+                    .font(.system(size: 18))
+
                 VStack (alignment: .leading, spacing: 40) {
-                    VStack (alignment: .leading, spacing: 20) {
+                    VStack (alignment: .leading, spacing: 15) {
                             
-                        Text("Far far away, behind the word mountains, far from the countries Vokalia and Consonantia")
+                        Text("Wähle, für  welchen Funkschein Du lernen möchtest")
                         
                             NavigationLink{
-                                QuizMainView(certificate: "UBI")
+                                QuizMainView(quizCertificate: "UBI")
                                     .environmentObject(quizController)
                             } label: {
-                                QuizButton(text: "UBI – UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk")
+                                QuizButton(text: "UBI")
                             }
 
                             NavigationLink{
-                                QuizMainView(certificate: "SRC")
+                                QuizMainView(quizCertificate: "SRC")
                                     .environmentObject(quizController)
                             } label: {
-                                QuizButton(text: "SRC – Short Range Certificate")
+                                QuizButton(text: "SRC")
                             }
+                        NavigationLink{
+                            QuizMainView(quizCertificate: "SRCUBI")
+                                .environmentObject(quizController)
+                        } label: {
+                            QuizButton(text: "SRC auf UBI")
+                        }
+
                         }
                         Spacer()
                         Text("")
                     }
                     .padding()
                     .frame(maxWidth: .infinity)
-                    .background(Color.white)
+                    .background(Color.background)
                     .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
                 }
-                .padding()
+            .padding()
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .background(Color.background)
                 .navigationTitle("Funkscheine")
+                .navigationBarHidden(true)
                 .font(.title3)
         }
     }

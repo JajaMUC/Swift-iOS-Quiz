@@ -8,16 +8,20 @@
 import SwiftData
 
 @Model
-class Question {
-    var questionid: Int
-    var questionstatus: Int
-    var questionanswered: Int
-    var questioncorrect: Int
+final class Question {
+    @Attribute(.unique) var questionId: Int
+    var certificate: String
+    var categoryId: Int
+    var questionStatus: Int
+    var questionAnswered: Int
+    var questionCorrect: Int
     
-    init(questionid: Int, questionstatus: Int, questionanswered: Int, questioncorrect: Int) {
-        self.questionid = questionid
-        self.questionstatus = questionstatus
-        self.questionanswered = questionanswered
-        self.questioncorrect = questioncorrect
+    init(questionId: Int, certificate: String, categoryId: Int, questionStatus: Int, questionAnswered: Int, questionCorrect: Int) {
+        self.questionId = questionId
+        self.certificate = certificate
+        self.categoryId = categoryId
+        self.questionStatus = questionStatus
+        self.questionAnswered = questionAnswered
+        self.questionCorrect = questionCorrect
     }
 }

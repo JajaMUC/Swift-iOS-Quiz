@@ -10,7 +10,7 @@ import SwiftUI
 
 struct NextButton: View {
     @EnvironmentObject var quizController: QuizController
-
+    
     var background: Color = Color.gray
     var imageName: String = "target"
     
@@ -26,11 +26,10 @@ struct NextButton: View {
             .onTapGesture {
                 if quizController.answerAnswered {
                     quizController.goToNextQuestion()
-                    
                 }
                 if quizController.answerSelected {
-                    quizController.logAnswer()
+                    quizController.answerAnswered = true
                 }
-            }
+        }
     }
 }

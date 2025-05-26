@@ -9,14 +9,15 @@ import SwiftUI
 
 struct QuizButton: View {
     var text: String = ""
-    var background = Color.button
+    var background = Color.buttonBlue
+    var foreground = Color.white
     
     var body: some View {
         Text(text)
             .fixedSize(horizontal: false, vertical: true)
             .font(.system(size: 16))
             .frame(maxWidth: .infinity)
-            .foregroundColor(.white)
+            .foregroundColor(foreground)
             .padding()
             .padding(.horizontal)
             .background(background)

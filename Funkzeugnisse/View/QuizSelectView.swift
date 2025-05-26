@@ -1,8 +1,15 @@
 //
+//  QuizSelectViewOLD.swift
+//  Funkzeugnisse
+//
+//  Created by Janin Schroth on 23.05.25.
+//
+
+//
 //  QuizSelectView.swift
 //  Funkzeugnisse
 //
-//  Created by Janin Schroth on 19.12.24.
+//  Created by Janin Schroth on 23.05.25.
 //
 
 import SwiftUI
@@ -10,57 +17,53 @@ import SwiftUI
 struct QuizSelectView: View {
     @EnvironmentObject var quizController: QuizController
     @State var categories: [Category] = []
-    @State var certificate: String = ""
+    @State var quizCertificate: String = ""
     @State var modus: String = "review"
     @State var questionnaireid = 0
     @State var name: String = ""
-
-    
-   
     
     var body: some View {
         VStack {
             NavigationStack {
-                VStack {
+                VStack (alignment: .leading, spacing: 15) {
                     NavigationLink {
-                        QuizView(categoryid: 0, certificate: certificate, modus: modus, questionnaireid: questionnaireid)
+                        QuizView(categoryId: 0, quizCertificate: quizCertificate, modus: modus, questionnaireId: questionnaireid)
                             .environmentObject(quizController)
                         
                     } label: {
                         QuizButton(text: "Alle Fragen")
                     }
-                    VStack (alignment: .leading, spacing: 15){
-                        Text("Kategorien")
-                            .padding(.top, 20)
-                            .font(.system(size: 20))
-                            .bold()
-                        ForEach(categories, id: \.id) { category in
-                            NavigationLink {
-                                QuizView(categoryid: category.id, certificate: certificate, modus: modus, questionnaireid: questionnaireid)
-                                    .environmentObject(quizController)
-                                
-                            } label: {
-                                QuizButton(text: category.name)
-                            }
+                    ForEach(categories, id: \.id) { category in
+                        NavigationLink {
+                            QuizView(categoryId: category.id, quizCertificate: quizCertificate, modus: modus, questionnaireId: questionnaireid)
+                                .environmentObject(quizController)
+                            
+                        } label: {
+                            QuizButton(text: category.name, background: Color.buttonLightBlue, foreground: Color.buttonBlue)
                         }
+                    }
+                    VStack (alignment: .leading, spacing: 15){
+                       
                     }
                 }
                 .navigationTitle(name)
                 .padding()
+                Spacer()
             }
         }
+        .background(Color.background)
         .onAppear() {
-            if certificate == "UBI" || certificate == "SRCUBI" {
+            if quizCertificate == "UBI" || quizCertificate == "SRCUBI" {
                 categories = Categories.init().ubiCategories
             } else {
                 categories = Categories.init().srcCategories
             }
-            name = "\(certificate)-Prüfungsfragen"
+            name = "\(quizCertificate)-Prüfungsfragen"
         }
     }
 }
 
 #Preview {
-    QuizSelectView(certificate: "UBI")
+    QuizSelectView(quizCertificate: "UBI")
         .environmentObject(QuizController(name: "data.json"))
 }

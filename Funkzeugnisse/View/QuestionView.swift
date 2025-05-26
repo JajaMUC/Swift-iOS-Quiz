@@ -11,7 +11,9 @@ import SwiftUI
 struct QuestionView: View {
     @EnvironmentObject var quizController: QuizController
     @Environment(\.modelContext) private var moc
-
+    @Query var questions: [Question]
+    var question: Question = Question(questionId: 0, certificate: "", categoryId: 0, questionStatus: 0, questionAnswered: 0, questionCorrect: 0)
+    
     var body: some View {
         VStack {
             VStack {
@@ -19,16 +21,14 @@ struct QuestionView: View {
                     Spacer()
                     Text("\(quizController.index + 1) von \(quizController.length)")
                 }
-                
                 ScrollView {
                     VStack(alignment: .leading, spacing: 20) {
                         
                         HStack {
-                            Text("# \(quizController.questionnumber)")
+                            Text("# \(quizController.questionNumber)")
                                 .bold()
-                            Text("\(quizController.questionid)")
                             Spacer()
-                            StatusButton()
+                            StatusButton(questionStatus: question.questionStatus)
                         }
                         
                         Text(quizController.question)
@@ -41,7 +41,7 @@ struct QuestionView: View {
                             AnswerButton(answer: answer)
                                 .environmentObject(quizController)
                         }
-                        NextButton(background: quizController.answerSelected ? Color.button : .gray, imageName: quizController.answerAnswered ? "chevron.right.2" : "target")
+                        NextButton(background: quizController.answerSelected ? Color.buttonBlue : .gray, imageName: quizController.answerAnswered ? "chevron.right.2" : "target")
                             .environmentObject(quizController)
                 
                         Spacer()
