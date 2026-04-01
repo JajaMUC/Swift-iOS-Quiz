@@ -1,1 +1,1 @@
-App to learn everything for the Funkzeugnisse-Prüfung (UBI und SRC, LRC planned)
+Eine Lern-App für die Prüfung zum UBI (UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk) und SRC (Short Range Certificate), Funkscheine für Hobby-Segler. Umgesetzt mit Swift UI für die Nutzung auf iOS-Geräten.
